@@ -12,5 +12,5 @@ services:
       - chat
   auth:
     build: ./authAPI/.
-  chat:  
+  chat:
     build: ./chatAPI/.
